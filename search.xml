@@ -116,13 +116,13 @@
     
     <entry>
       <title></title>
-      <url>/categories/index.html</url>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title></title>
-      <url>/tags/index.html</url>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
