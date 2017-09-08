@@ -41,13 +41,13 @@
       <category term="视频" scheme="http://royal-h.cn/categories/%E6%90%9E%E7%AC%91/%E6%94%BE%E6%9D%BE%E5%BF%83%E6%83%85/%E8%A7%86%E9%A2%91/"/>
     
     
+      <category term="Fun" scheme="http://royal-h.cn/tags/Fun/"/>
+    
       <category term="Life" scheme="http://royal-h.cn/tags/Life/"/>
     
       <category term="Poetry" scheme="http://royal-h.cn/tags/Poetry/"/>
     
       <category term="Music" scheme="http://royal-h.cn/tags/Music/"/>
-    
-      <category term="Fun" scheme="http://royal-h.cn/tags/Fun/"/>
     
       <category term="Video" scheme="http://royal-h.cn/tags/Video/"/>
     
@@ -115,13 +115,13 @@
       <category term="诗和远方" scheme="http://royal-h.cn/categories/%E7%94%9F%E6%B4%BB/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
     
     
-      <category term="Hexo" scheme="http://royal-h.cn/tags/Hexo/"/>
-    
       <category term="Life" scheme="http://royal-h.cn/tags/Life/"/>
     
       <category term="Poetry" scheme="http://royal-h.cn/tags/Poetry/"/>
     
       <category term="Music" scheme="http://royal-h.cn/tags/Music/"/>
+    
+      <category term="Hexo" scheme="http://royal-h.cn/tags/Hexo/"/>
     
   </entry>
   
