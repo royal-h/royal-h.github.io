@@ -108,14 +108,14 @@
   
     
     <entry>
-      <title><![CDATA[关于俺]]></title>
-      <url>/about/index.html</url>
+      <title></title>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
-      <title></title>
-      <url>/categories/index.html</url>
+      <title><![CDATA[关于俺]]></title>
+      <url>/about/index.html</url>
       <content type="html"></content>
     </entry>
     
